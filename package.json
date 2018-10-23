@@ -1,0 +1,15 @@
+{
+  "name": "staticfilesserver",
+  "version": "1.0.0",
+  "description": "server of static files",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "start": "node index.js"
+  },
+  "author": "rseRafael",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
